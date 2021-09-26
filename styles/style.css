@@ -4,6 +4,12 @@ body{
 .navbar img{
     width: 40px;
 }
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #FFFFFF;
+}
 .player img{
     width: 56px;
 }
