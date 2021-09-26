@@ -1,6 +1,10 @@
 body{
     background-color: #F3F1FF;
 }
+main{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 .navbar img{
     width: 40px;
@@ -21,4 +25,7 @@ main{
 }
 .blog-description{
     padding-left: 10px;
+}
+.name{
+    color: #562EFF;
 }
